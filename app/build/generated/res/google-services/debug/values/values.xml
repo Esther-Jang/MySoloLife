@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1001117258596-3v7c3ho8p7mb50n6d19o84pcv751pv8q.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1001117258596</string>
+    <string name="google_api_key" translatable="false">AIzaSyDHzfiQbXGfLlI5i1eWDs5Had6uWMmKwf0</string>
+    <string name="google_app_id" translatable="false">1:1001117258596:android:081375bc558bed51aaa071</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHzfiQbXGfLlI5i1eWDs5Had6uWMmKwf0</string>
+    <string name="google_storage_bucket" translatable="false">sololife-98c6a.appspot.com</string>
+    <string name="project_id" translatable="false">sololife-98c6a</string>
+</resources>

@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_hobby.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_hobby.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_radius.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/radius.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_setting.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_radius_yellow.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/radius_yellow.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_content_list.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_content_list.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_bottom_talk.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/bottom_talk.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_content_show.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_content_show.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_bookmark_white.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/bookmark_white.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_bottom_bookmark.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/bottom_bookmark.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_btnwrite.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/btnwrite.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_bottom_store.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/bottom_store.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_economy.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_economy.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_board_write.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_write.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_fragment_store.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_plusbtn.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/plusbtn.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_comment_list_item.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_content_rv_item.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/content_rv_item.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_bookmark_color.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/bookmark_color.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_bottom_hometap.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/bottom_hometap.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_logo.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/logo.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_life.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_life.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_else.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_else.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_min_logo.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/min_logo.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_board_inside.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_inside.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_intro.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/navigation_main_nav.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/navigation/main_nav.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_board_list_item.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/board_list_item.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_fragment_talk.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_talk.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_bottom_goodtip.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/bottom_goodtip.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_log_in.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_fragment_tip.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_tip.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_board_edit.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_edit.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_main_menu.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/main_menu.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_upperbg.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/upperbg.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_oneroom.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_oneroom.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_all.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_all.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_fragment_book_mark.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_book_mark.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_custom_dialog.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/layout_activity_join.xml.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_join.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable_loginbg.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable/loginbg.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_interior.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_interior.png"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-merged_res-38:/drawable-v24_main_icon_cook.png.flat",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/drawable-v24/main_icon_cook.png"
+    }
+]

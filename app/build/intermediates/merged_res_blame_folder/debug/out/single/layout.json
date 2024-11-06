@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/fragment_tip.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_tip.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_board_edit.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_edit.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/fragment_home.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/fragment_talk.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_talk.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_board_inside.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_inside.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/fragment_store.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_log_in.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_intro.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/fragment_book_mark.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/fragment_book_mark.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_board_write.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_board_write.xml"
+    },
+    {
+        "merged": "kr.ac.kyonggi.mysololife.app-mergeDebugResources-37:/layout/activity_join.xml",
+        "source": "kr.ac.kyonggi.mysololife.app-main-40:/layout/activity_join.xml"
+    }
+]

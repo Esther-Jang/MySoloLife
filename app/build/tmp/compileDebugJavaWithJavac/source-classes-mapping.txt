@@ -1,0 +1,20 @@
+kr/ac/kyonggi/mysololife/databinding/FragmentBookMarkBinding.java
+ kr.ac.kyonggi.mysololife.databinding.FragmentBookMarkBinding
+kr/ac/kyonggi/mysololife/databinding/FragmentTalkBinding.java
+ kr.ac.kyonggi.mysololife.databinding.FragmentTalkBinding
+kr/ac/kyonggi/mysololife/databinding/FragmentHomeBinding.java
+ kr.ac.kyonggi.mysololife.databinding.FragmentHomeBinding
+kr/ac/kyonggi/mysololife/databinding/ActivityIntroBinding.java
+ kr.ac.kyonggi.mysololife.databinding.ActivityIntroBinding
+kr/ac/kyonggi/mysololife/databinding/FragmentStoreBinding.java
+ kr.ac.kyonggi.mysololife.databinding.FragmentStoreBinding
+kr/ac/kyonggi/mysololife/databinding/ActivityJoinBinding.java
+ kr.ac.kyonggi.mysololife.databinding.ActivityJoinBinding
+kr/ac/kyonggi/mysololife/DataBindingTriggerClass.java
+ kr.ac.kyonggi.mysololife.DataBindingTriggerClass
+kr/ac/kyonggi/mysololife/databinding/ActivityLogInBinding.java
+ kr.ac.kyonggi.mysololife.databinding.ActivityLogInBinding
+kr/ac/kyonggi/mysololife/databinding/FragmentTipBinding.java
+ kr.ac.kyonggi.mysololife.databinding.FragmentTipBinding
+kr/ac/kyonggi/mysololife/BuildConfig.java
+ kr.ac.kyonggi.mysololife.BuildConfig
